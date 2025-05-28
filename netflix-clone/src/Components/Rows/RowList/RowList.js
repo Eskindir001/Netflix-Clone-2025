@@ -2,7 +2,6 @@ import React from 'react'
 import Row from '../Row/Row'
 import requests from '../../../utils/requests';
 
-
 const RowList = () => {
     return (
       <>
