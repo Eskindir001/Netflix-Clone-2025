@@ -8,15 +8,12 @@ const Home = () => {
   return (
       <>
       <Header />
-
-
       <Banner />
-    
       <RowList/>
-          <Footer/>
+      <Footer/>
 
     </>
-  )
+  )  
 }
 
 export default Home
